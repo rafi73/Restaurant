@@ -13,7 +13,7 @@
                 </div>
                 <div class="col-xl-2 col-lg-2 col-md-2 col-sm-6 col-4">
                     <a href="index.html" class="logo">
-                        <img src="img/unify.png" alt="Unify Admin Dashboard" />
+                        <img src="/themes/backend/unity/img/unify.png" alt="Unify Admin Dashboard" />
                     </a>
                 </div>
                 <div class="col-xl-5 col-lg-5 col-md-5 col-sm-3 col-4">
@@ -88,7 +88,7 @@
                         </li>
                         <li class="dropdown">
                             <a href="#" id="userSettings" class="user-settings" data-toggle="dropdown" aria-haspopup="true">
-                                <img class="avatar" src="img/user.png" alt="User Thumb" />
+                                <img class="avatar" src="/themes/backend/unity/img/user.png" alt="User Thumb" />
                                 <span class="user-name">Sofia Vergara</span>
                                 <i class="icon-chevron-small-down"></i>
                             </a>

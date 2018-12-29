@@ -6,7 +6,7 @@
                     <div class="card-body">
                         <div class="stats-widget">
                             <div class="stats-widget-header">
-                                <img src="img/thumb-up.svg" alt="Likes" />
+                                <img src="/themes/backend/unity/img/thumb-up.svg" alt="Likes" />
                             </div>
                             <div class="stats-widget-body">
                                 <!-- Row start -->
@@ -28,7 +28,7 @@
                     <div class="card-body">
                         <div class="stats-widget">
                             <div class="stats-widget-header">
-                                <img src="img/chat.svg" alt="Comments" />
+                                <img src="/themes/backend/unity/img/chat.svg" alt="Comments" />
                             </div>
                             <div class="stats-widget-body">
                                 <!-- Row start -->
@@ -51,7 +51,7 @@
                         <div class="stats-widget">
                             <a href="#" class="stats-label" data-toggle="tooltip" data-placement="top" title="New Tasks">47</a>
                             <div class="stats-widget-header">
-                                <img src="img/calendar.svg" alt="Calendar" />
+                                <img src="/themes/backend/unity/img/calendar.svg" alt="Calendar" />
                             </div>
                             <div class="stats-widget-body">
                                 <!-- Row start -->
@@ -74,7 +74,7 @@
                         <div class="stats-widget">
                             <a href="#" class="stats-label" data-toggle="tooltip" data-placement="top" title="New Servers">12</a>
                             <div class="stats-widget-header">
-                                <img src="img/server.svg" alt="Servers" />
+                                <img src="/themes/backend/unity/img/server.svg" alt="Servers" />
                             </div>
                             <div class="stats-widget-body">
                                 <!-- Row start -->
@@ -229,7 +229,7 @@
                                 <li>
                                     <a href="#">
                                         <div class="event-status-icon">
-                                            <img src="img/checked.svg" alt="checked" class="completed" />
+                                            <img src="/themes/backend/unity/img/checked.svg" alt="checked" class="completed" />
                                         </div>
                                         <div class="event-info">
                                             <span class="event-time">8:45</span>
@@ -240,7 +240,7 @@
                                 <li>
                                     <a href="#">
                                         <div class="event-status-icon">
-                                            <img src="img/not-checked.svg" alt="Not checked" class="completed" />
+                                            <img src="/themes/backend/unity/img/not-checked.svg" alt="Not checked" class="completed" />
                                         </div>
                                         <div class="event-info">
                                             <span class="event-time">10:30</span>

@@ -24,6 +24,9 @@
             <!-- <link href="{{asset('themes/backend/unity/vendor/chartist/css/chartist.min.css')}}" rel="stylesheet" />
             <link href="{{asset('themes/backend/unity/vendor/chartist/css/chartist-custom.css')}}" rel="stylesheet" /> -->
 
+            <link href="{{asset('themes/backend/unity/vendor/datatables/dataTables.bs4.css')}}" rel="stylesheet" />
+            <link href="{{asset('themes/backend/unity/vendor/datatables/dataTables.bs4-custom.css')}}" rel="stylesheet" />
+
         @show
 
         <script>
@@ -57,6 +60,12 @@
             <script src="{{asset('themes/backend/unity/vendor/chartist/js/custom/custom-area-chart.js')}}"></script>
             <script src="{{asset('themes/backend/unity/vendor/chartist/js/custom/donut-chart4.js')}}"></script>
             <script src="{{asset('themes/backend/unity/vendor/chartist/js/custom/custom-compare-line.js')}}"></script> -->
+
+
+            <script src="{{asset('themes/backend/unity/vendor/datatables/dataTables.min.js')}}"></script>
+            <script src="{{asset('themes/backend/unity/vendor/datatables/dataTables.bootstrap.min.js')}}"></script>
+            <script src="{{asset('themes/backend/unity/vendor/datatables/custom/custom-datatables.js')}}"></script>
+            <script src="{{asset('themes/backend/unity/vendor/datatables/custom/fixedHeader.js')}}"></script>
 
             <!-- Common JS -->
             <script src="{{asset('themes/backend/unity/js/common.js')}}"></script>

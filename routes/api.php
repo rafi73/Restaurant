@@ -17,6 +17,11 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
 
+Route::post(
+    'permissible/auth/token',
+    '\Shahnewaz\Permissible\Http\Controllers\API\AuthController@postAuthenticate'
+)->name('permissible.auth.token');
+
 
 # OrderType Routes
 // List OrderTypes
